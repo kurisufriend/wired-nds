@@ -1,1 +1,0 @@
-wsfwp.o: wsfwp.s

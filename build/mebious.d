@@ -1,1 +1,0 @@
-mebious.o: mebious.s
